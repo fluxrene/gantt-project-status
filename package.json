@@ -1,0 +1,19 @@
+{
+  "name": "gantt-project-status",
+  "version": "0.0.1",
+  "description": "Visualize the status of various projects in a Gantt chart.",
+  "main": "index.html",
+  "scripts": {},
+  "author": "Rene Lenoir",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fluxrene/gantt-project-status"
+  },
+  "dependencies": {
+    "http-server": "0.11.1",
+    "d3": "3.5.17",
+    "moment": "2.18.1"
+  }
+}
